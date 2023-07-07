@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkshedu_sheke"]=self["webpackChunkshedu_sheke"]||[]).push([[614],{4614:function(e,s,u){u.r(s),u.d(s,{default:function(){return a}});var n=function(){var e=this,s=e._self._c;return s("div",{staticClass:"chinese"})},t=[],c={},h=c,l=u(1001),r=(0,l.Z)(h,n,t,!1,null,"82171fa0",null),a=r.exports}}]);
-//# sourceMappingURL=614.9530b6ab.js.map
