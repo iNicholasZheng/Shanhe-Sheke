@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkshedu_sheke"]=self["webpackChunkshedu_sheke"]||[]).push([[769],{5769:function(e,n,s){s.r(n),s.d(n,{default:function(){return o}});var t=function(){var e=this,n=e._self._c;return n("div",{staticClass:"home"},[n("banner"),n("News")],1)},u=[];const c=()=>s.e(231).then(s.bind(s,9231)),r=()=>s.e(734).then(s.bind(s,8734));var h={components:{Banner:c,News:r}},a=h,i=s(1001),l=(0,i.Z)(a,t,u,!1,null,"597ecc52",null),o=l.exports}}]);
-//# sourceMappingURL=769.7cb78d2d.js.map
