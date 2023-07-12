@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkshedu_sheke"]=self["webpackChunkshedu_sheke"]||[]).push([[494],{494:function(e,n,s){s.r(n),s.d(n,{default:function(){return f}});var t=function(){var e=this,n=e._self._c;return n("div",{staticClass:"home"},[n("banner"),n("News"),n("DepartmentNews")],1)},r=[];const u=()=>s.e(231).then(s.bind(s,9231)),a=()=>s.e(180).then(s.bind(s,180)),h=()=>s.e(836).then(s.bind(s,7836));var c={components:{Banner:u,News:a,DepartmentNews:h}},i=c,l=s(1001),d=(0,l.Z)(i,t,r,!1,null,"4535371f",null),f=d.exports}}]);
-//# sourceMappingURL=494.9649d22c.js.map
